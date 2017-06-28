@@ -25,7 +25,7 @@ SECRET_KEY = '!%(!xwcr3396(k_rfyz1to!@w9yis6q4$2bph6k@ial4b=4fn('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'lexiandria.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'lexiandria13.pythonanywhere.com']
 
 
 # Application definition
